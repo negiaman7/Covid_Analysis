@@ -1,7 +1,7 @@
 # 📊 COVID-19 Data Analysis using SQL
 
 ##  About This Project
-This project is my attempt to explore real-world COVID-19 data using SQL and understand how the pandemic impacted different countries.
+This project is to explore real-world COVID-19 data using SQL and understand how the pandemic impacted different countries.
 
 Instead of just running queries, I focused on asking meaningful questions like:
 - How deadly was COVID in different regions?
